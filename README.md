@@ -35,8 +35,6 @@ This module has two types of activities.
 ### Assignments
 Participants should review the [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md) for instructions on how to complete assignments in this module.
 
-Assignments are typically due on the Sunday following the module's live learning session.
-
 1. [Shell script assignment](./02_activities/assignments/assignment_instructions.md)
 
 ### Practice Problems
@@ -47,19 +45,19 @@ Assignments are typically due on the Sunday following the module's live learning
 
 ## Contacts
 
-**Questions can be submitted to the #cohort-7-help channel on Slack**
+**Questions can be submitted to the #dc2-help channel on Slack**
 
 * Technical Facilitator:   
-  * **Simeon Wong**  
-    me@simeon.dev
+  * **Daniel Razavi**  
+    daniel.razavi@utoronto.ca
 
 * Learning Support Staff: 
   * **Dmytro Bonislavskyi**  
   dmytro.bonislavskyi@gmail.com
-  * **Gayathri Girish Kumar**  
-  gayathri.girishkumar@mail.utoronto.ca
-  * **Xindi Zhang**  
-  xindi.zhang@mail.utoronto.ca
+  * **Anjali Desphande**  
+  anju_shrivastava@yahoo.com
+  * **Sergii Khomych**  
+  svkhomich1@gmail.com
  
 ## Delivery of the Learning Module
 
@@ -74,7 +72,7 @@ Participants are encouraged to engage actively during the learning module. They 
 * Participants are encouraged to ask questions, and collaborate with others to enhance their learning experience.
 * Participants must have a computer and an internet connection to participate in online activities.
 * Participants must not use generative AI such as ChatGPT to generate code in order to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
-* We expect participants to have completed the steps in the [onboarding repo](https://github.com/UofT-DSI/onboarding/).
+* We expect participants to have completed the steps in the [onboarding repo](https://github.com/UofT-DSI/onboarding/blob/main/environment_setup/README.md).
 * We encourage participants to default to having their camera on at all times, and turning the camera off only as needed. This will greatly enhance the learning experience for all participants and provides real-time feedback for the instructional team. 
 
 ## Resources
@@ -130,6 +128,7 @@ Below is an outline of the folder structure for this module:
 ├── 04_this_cohort
 ├── .gitignore
 ├── LICENSE
+├── SETUP.md
 └── README.md
 
 ```
@@ -140,5 +139,6 @@ Below is an outline of the folder structure for this module:
 * **this_cohort**: Additional materials for this cohort.
 * **.gitignore**: Files to exclude from this folder, specified by the Technical Facilitator
 * **LICENSE**: The license for this repository.
-* **README**: This file.
+* **SETUP.md**: Contains the steps required to set up this repo for the module.
+* **README.md**: This file.
 
